@@ -1,0 +1,16 @@
+#cv-template{
+    display: none;
+}
+.myimg{
+    width: 300px;
+    padding-top:30px;
+    border-radius: 50%;
+    border: 5px;
+    border-color: red;
+}
+.background{
+    background-color: skyblue;
+}
+.name{
+    padding-left: 30px;
+}
